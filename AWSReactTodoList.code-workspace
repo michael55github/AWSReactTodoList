@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "AWSReactTodoList",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
